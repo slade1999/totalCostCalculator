@@ -1,0 +1,12 @@
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\bin\Debug\MMABooks.mdf
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\bin\Debug\MMABooks_log.ldf
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\bin\Debug\knepp_Assignment6.exe.config
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\bin\Debug\knepp_Assignment6.exe
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\bin\Debug\knepp_Assignment6.pdb
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\obj\Debug\knepp_Assignment6.csprojAssemblyReference.cache
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\obj\Debug\knepp_Assignment6.Form1.resources
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\obj\Debug\knepp_Assignment6.Properties.Resources.resources
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\obj\Debug\knepp_Assignment6.csproj.GenerateResource.cache
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\obj\Debug\knepp_Assignment6.csproj.CoreCompileInputs.cache
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\obj\Debug\knepp_Assignment6.exe
+H:\Visual Studio projects\knepp_Assignment6\knepp_Assignment6\obj\Debug\knepp_Assignment6.pdb
